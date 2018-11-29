@@ -1,0 +1,17 @@
+Action:
+ae-fetch-conversation: render conversation detail OR list conversoin. base on "post_parent" to indicate it.
+ae-sync-ae_private_message : update value
+ae_private_message_get_new_number : get number unnead
+ae-sync-ae_private_message: ae_private_message_sync WHEN CLICK INTO A CONVERSION. UPDATE UNTEAD TO READED.
+ae-sync-ae_private_message : create new reply
+
+ae_private_message_sync_reply : check and update status of conversatin.
+
+Meta:
+number_reply_fre_unread
+number_reply_emp_unread
+archive_on_receiver: meta post to query list conversation of this user;
+is_conversation : filter converation or reply.
+update_post_meta( $result->post_parent, 'conversation_status', 'unread');
+conversation_status : check conversation is read or unread
+item-conversation-new: css class

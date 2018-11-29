@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'helveticaneue';
+				font-style: normal;
+				src: url('/wp-content/uploads/useanyfont/180315102347HelveticaNeue.eot');
+				src: local('helveticaneue'), url('/wp-content/uploads/useanyfont/180315102347HelveticaNeue.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/180315102347HelveticaNeue.woff') format('woff');
+			}
+            
+            .et_gf_helveticaneue{background:none !important;font-family:helveticaneue;text-indent:0 !important;font-size:25px;}
+            
+		

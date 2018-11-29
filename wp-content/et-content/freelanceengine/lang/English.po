@@ -1,0 +1,563 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: freelanceenginev1.8.1\n"
+"Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
+"MO-Creation-Date: 2017-10-16 01:13:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: JOB <EMAIL@ADDRESS>\n"
+"Language-Team: ENGINETHEMES.COM <enginethemes@enginethemes.com>\n"
+
+msgid "Number of project can post"
+msgstr "Number of Projects you can post"
+
+msgid "We will review the reports from both freelancer and employer to give the best decision. It will take 3-5 business days for reviewing after receiving two reports."
+msgstr "Message received. We will review this report from both sides. Please allow 3-5 business days for us to review."
+
+msgid "Employer"
+msgstr "User"
+
+msgid "EMPLOYER"
+msgstr "USER"
+
+msgid "Employer Review"
+msgstr "User Review"
+
+msgid "EMPLOYERS"
+msgstr "USERS"
+
+msgid "You have successfully bidden."
+msgstr "You have bidden successfully"
+
+msgid "You should enter your PayPal email in the account details tab to be received money in case of dispute!"
+msgstr "Please enter your PayPal email in the account details tab to proceed."
+
+msgid "Advance search"
+msgstr "Advanced search"
+
+msgid "Your message is sent successful!"
+msgstr "Your message has been successfully sent"
+
+msgid "Freelancer"
+msgstr "Designer"
+
+msgid "FREELANCER"
+msgstr "DESIGNER "
+
+msgid "Freelancer Review"
+msgstr "User Review"
+
+msgid "Find a Freelancer"
+msgstr "Find a Designer"
+
+msgid "Searching Freelancers"
+msgstr "Searching Designers"
+
+msgid "Find Freelancers"
+msgstr "Find Designers"
+
+msgid "FREELANCERS"
+msgstr "DESIGNERS"
+
+msgid "Find perfect freelancers for your projects or Look for freelance jobs online?"
+msgstr "Find perfect Designers for your Projects or Look for 3D Design jobs online"
+
+msgid "Browse profiles, reviews, then hire your most favorite and start project"
+msgstr "Browse profiles and reviews, then hire your favourite and start your Project"
+
+msgid "Block Freelance"
+msgstr "Block Designer"
+
+msgid "This block will display freelancers whose rating scrores are highest."
+msgstr "This block will display Designers whose rating scrores are highest"
+
+msgid "Find perfect freelancers for your projects"
+msgstr "Find the perfect Designer for your projects"
+
+msgid "Browse numerous freelance jobs online"
+msgstr "Browse numerous 3D Design jobs online"
+
+msgid "This block will display available package plans according to freelancer or employer role. If users are freelancers, bid packages are shown. Otherwise, packages for project posting are displayed."
+msgstr "This block will display available package plans according to Designer or User role. If they are Designers, bid packages are shown. Otherwise, packages for project posting are displayed."
+
+msgid "Title (Visitor/Employer)"
+msgstr "Title (Visitor/User)"
+
+msgid "Title (Freelancer)"
+msgstr "Title (Designer)"
+
+msgid "It's time to start finding freelance jobs online!"
+msgstr "It's time to start finding 3D Design jobs online!"
+
+msgid "The best way to find perfect freelancers!"
+msgstr "The best way to find a perfect 3D Designer!"
+
+msgid "Add new categories or modify the sample categories to match your freelance business."
+msgstr "Add new categories or modify the sample categories to match your 3D Design business."
+
+msgid "Add new skills or modify the sample skills to match your freelance business."
+msgstr "Add new skills or modify the sample skills to match your 3D Design business."
+
+msgid "Add new freelancer profiles or modify sample ones to match your business scope."
+msgstr "Add new Designer profiles or modify sample ones to match your business scope."
+
+msgid "Set a maximum number of skills freelancers can input their profile and employers can input when posting project."
+msgstr "Set a maximum number of skills Designers can input into their profile and Users can input when posting a Project."
+
+msgid "Enter slug for your User Profile page"
+msgstr "Enter slug for your users Profile page"
+
+msgid "Project demonstration on header video background viewed by employer."
+msgstr "Project demonstration on header video background viewed by User."
+
+msgid "Project demonstration on header video background viewed by freelancer."
+msgstr "Project demonstration on header video background viewed by Designer."
+
+msgid "Profile demonstration on header video background viewed by freelancer."
+msgstr "Profile demonstration on header video background viewed by Designer."
+
+msgid "Profiles demonstration on list profiles page viewed by employer."
+msgstr "Profiles demonstration on list profiles page viewed by User."
+
+msgid "Send to user when he has a new message on workspace."
+msgstr "Send to user when he has a new message on WorkSpace."
+
+msgid "Send to employer when he buys a post project package"
+msgstr "Send to User when he buys a post project package"
+
+msgid "Send to user when he buys a bid project package"
+msgstr "Send to a user when he buys a bid project package"
+
+msgid "Send to the admin when employer re-submits his rejected project."
+msgstr "Send to the admin when User re-submits his rejected project."
+
+msgid "Project was accepted by Employer"
+msgstr "Project was accepted by User"
+
+msgid "Send to the freelancers after employer accepted a bid from an alternative freelancer."
+msgstr "Send to the Designer after User accepted a bid from an alternative Designer."
+
+msgid "Project was finished by employer"
+msgstr "Project was finished by User"
+
+msgid "Send to the freelancer when employer finished a project"
+msgstr "Send to the Designer when User finished a project"
+
+msgid "Notify employer when freelancer review for employer."
+msgstr "Notify User when Designer review for User."
+
+msgid "Send to employer when freelancer reviews and rate for him"
+msgstr "Send to User when Designer reviews and rates him"
+
+msgid "Send to freelancers when a new project which related to his profile category is posted."
+msgstr "Send to Designers when a new project which related to his profile category is posted"
+
+msgid "Send to the freelancer after admin reviews & approved the payment."
+msgstr "Send to the Designer after admin reviews & approved the payment."
+
+msgid "Project was Reported by Employer"
+msgstr "Project was Reported by User"
+
+msgid "Send to freelancer when employer sends a report on the project."
+msgstr "Send to Designer when User sends a report on the project."
+
+msgid "Notify admin when employer closed the project"
+msgstr "Notify admin when User closed the project"
+
+msgid "Send to admin when employer closed his project."
+msgstr "Send to admin when User closed his project."
+
+msgid "Notify freelancer when employer closed the project"
+msgstr "Notify Designer when User closed the project"
+
+msgid "Send to admin when employer closed the project."
+msgstr "Send to admin when User closed the project."
+
+msgid "Notify admin when freelancer discontinues the project"
+msgstr "Notify admin when Designer discontinues the project"
+
+msgid "Send to admin when freelancer discontinues his working project."
+msgstr "Send to admin when Designer discontinues his working project."
+
+msgid "Notify employer when freelancer discontinues the project"
+msgstr "Notify User when Designer discontinues the project"
+
+msgid "Send to employer when freelancer discontinues the project"
+msgstr "Send to User when Designer discontinues the project"
+
+msgid "Project Reported by Freelancer"
+msgstr "Project Reported by Designer"
+
+msgid "Send to employer when freelancer sends a report on project."
+msgstr "Send to User when Designer sends a report on project."
+
+msgid "Freelancer Report  Mail"
+msgstr "Designer Report Mail"
+
+msgid "Send to employer when freelancer cancels a bid."
+msgstr "Send to User when Designer cancels a bid."
+
+msgid "Notify employer when the payment is sent"
+msgstr "Notify User when the payment is sent"
+
+msgid "Send to the employer when admin sends money to freelancer."
+msgstr "Send to the User when admin sends money to Designer."
+
+msgid "Notify freelancer when the payment is sent."
+msgstr "Notify Designer when the payment is sent."
+
+msgid "Send to the freelancer when admin sends money to him."
+msgstr "Send to the Designer when admin sends money to him."
+
+msgid "Notify employer when the payment is sent - Disable manual transfer."
+msgstr "Notify User when the payment is sent - Disable manual transfer."
+
+msgid "Send to employer when he finishes his project, the payment is successful sent."
+msgstr "Send to User when he finishes his project, the payment is successful sent."
+
+msgid "Notify freelancer when the payment is sent - Disable manual transfer."
+msgstr "Notify Designer when the payment is sent - Disable manual transfer."
+
+msgid "Send to freelancer when employer finishes his project, the payment is successful sent."
+msgstr "Send to Designer when User finishes his project, the payment is successful sent."
+
+msgid "Notify employer about dispute resolution."
+msgstr "Notify User about dispute resolution."
+
+msgid "Send to employer when admin arbitrates employer as a winner."
+msgstr "Send to User when admin arbitrates User as a winner."
+
+msgid "Notify freelancer about dispute resolution."
+msgstr "Notify Designer about dispute resolution."
+
+msgid "Send freelancer when admin arbitrates employer as a winner."
+msgstr "Send Designer when admin arbitrates User as a winner."
+
+msgid "Send to employer when admin arbitrates freelancer as a winner."
+msgstr "Send to User when admin arbitrates Designer as a winner."
+
+msgid "Notify freelancer when admin arbitrates him as a winner."
+msgstr "Notify Designer when admin arbitrates him as a winner."
+
+msgid "Send to freelancer when admin arbitrates freelancer as a winner."
+msgstr "Send to Designer when admin arbitrates Designer as a winner."
+
+msgid "You have to be a freelancer to bid a project."
+msgstr "You have to be a Designer to bid a project."
+
+msgid "Setting up a trustworthy environment for freelancers and employers."
+msgstr "Setting up a trustworthy environment for Users and Designers."
+
+msgid "There is a Freelancer canceled a bid on Your project %s."
+msgstr "A Designer canceled a bid on your Project %s."
+
+msgid "Your project has been finished."
+msgstr "Your Project has been finished."
+
+msgid "A new review from freelancer."
+msgstr "A new review from Designer."
+
+msgid "Workspace"
+msgstr "WorkSpace"
+
+msgid "Have a new report on project %s."
+msgstr "You have a new report on Project %s."
+
+msgid "A new dispute on your working project"
+msgstr "A new dispute on your working project"
+
+msgid "Your project is completed"
+msgstr "Your Project is completed"
+
+msgid "Workspace:"
+msgstr "WorkSpace:"
+
+msgid "Both employer and freelancer can open workspace to collaborate on this project."
+msgstr "Both User and Designer can open the WorkSpace to collaborate on this Project."
+
+msgid "Open Workspace"
+msgstr "Open WorkSpace"
+
+msgid "Admin send Freelancer a report"
+msgstr "Admin send Designer a report"
+
+msgid "Admin send Employer a report"
+msgstr "Admin send User a report"
+
+msgid "New project %s is created"
+msgstr "New Project %s is created"
+
+msgid "project %s is renewed"
+msgstr "Project %s is renewed"
+
+msgid "Bid on project %s was accepted"
+msgstr "Bid on Project %s was accepted"
+
+msgid "%s reviewed project %s"
+msgstr "%s reviewed Project %s"
+
+msgid "New message on project %s"
+msgstr "New message on Project %s"
+
+msgid "%s rejected your project %s"
+msgstr "%s rejected your Project %s"
+
+msgid "%s approved your project %s"
+msgstr "%s approved your Project %s"
+
+msgid "%s closed your working project %s"
+msgstr "%s closed your working Project %s"
+
+msgid "%s bidded on your project %s"
+msgstr "%s bidded on your Project %s"
+
+msgid "%s sent you a message on %s workspace "
+msgstr "%s sent you a message on %s WorkSpace"
+
+msgid "%s invited you to join project %s"
+msgstr "%s invited you to join Project %s"
+
+msgid "%s commented on your project %s"
+msgstr "%s commented on your Project %s"
+
+msgid "Update project successful!"
+msgstr "Update Project successful"
+
+msgid "Add New portfolio"
+msgstr "Add new Portfolio"
+
+msgid "Edit portfolio"
+msgstr "Edit Portfolio"
+
+msgid "New portfolio"
+msgstr "New Portfolio"
+
+msgid "View portfolio"
+msgstr "View portfolio"
+
+msgid "Search portfolio"
+msgstr "Search Portfolio"
+
+msgid "%s project worked"
+msgstr "%s Project worked"
+
+msgid "%s projects worked"
+msgstr "%s Projects worked"
+
+msgid "0 projects worked"
+msgstr "0 Projects worked"
+
+msgid "You only can have on profile."
+msgstr "You can only have on Profile."
+
+msgid "Your profile has been created successfully."
+msgstr "Your Profile has been created successfully."
+
+msgid "Your profile has been updated successfully."
+msgstr "Your Profile has been updated successfully."
+
+msgid "Add New project"
+msgstr "Add new Project"
+
+msgid "Edit project"
+msgstr "Edit Project"
+
+msgid "New project"
+msgstr "New Project"
+
+msgid "View project"
+msgstr "View Project"
+
+msgid "You need an employer account to post a project."
+msgstr "You need a User account to create a Project."
+
+msgid "This project is complete."
+msgstr "This Project is complete."
+
+msgid "Invalid project."
+msgstr "Invalid Project."
+
+msgid "This project have not accepted any bid."
+msgstr "This Project has not received any bids."
+
+msgid "You do not have permission to report dispute this project."
+msgstr "You do not have permission to report dispute this Project."
+
+msgid "Please post a review for this freelancer."
+msgstr "Please post a review for this Designer."
+
+msgid "You have to rate this project."
+msgstr "You have to rate this Project."
+
+msgid "Employers"
+msgstr "Users"
+
+msgid "Users"
+msgstr "users"
+
+msgid "<p>Oops! You haven't had any project bids yet. Let's find the appropriate project and bid on them right now.</p>"
+msgstr "<p>Oops! You haven't had any Project bids yet. Let's find the appropriate Project and bid on them right now.</p>"
+
+msgid "Find a project"
+msgstr "Find a Project"
+
+msgid "Redirect to the homepage or project detail page within a <span class=\"count_down\">10</span> seconds"
+msgstr "Redirect to the homepage or Project detail page within a <span class=\"count_down\">10</span> seconds"
+
+msgid "Edit the project"
+msgstr "Edit the Project"
+
+msgid "What category does your project work in?"
+msgstr "What category does your Project work in?"
+
+msgid "Your project title"
+msgstr "Your Project title"
+
+msgid "Your project budget"
+msgstr "Your Project budget"
+
+msgid "Hire Freelancer"
+msgstr "Hire Designer"
+
+msgid "Apply as Freelancer"
+msgstr "Apply as User"
+
+msgid "See all freelancers"
+msgstr "See all Designers"
+
+msgid "Receive emails about projects that match your categories"
+msgstr "Receive emails about Projects that match your categories"
+
+msgid "Turn on to display an \"Invite me\" button on your profile, allowing potential employers to suggest projects for you."
+msgstr "Turn on to display an \"Invite me\" button on your Profile, allowing potential Users to suggest Projects for you."
+
+msgid "Select \"Yes\" to display a \"Invite me to bid\" button on your profile allowing potential clients and employers to contact you."
+msgstr "Select \"Yes\" to display a \"Invite me to bid\" button on your Profile allowing potential Users to contact you."
+
+msgid "Sign Up Free Account"
+msgstr "Sign Up"
+
+msgid "Post project, find freelancers and hire favorite to work."
+msgstr "Post Projects, find Designers and hire your favorite to work."
+
+msgid "Create professional profile and find freelance jobs to work."
+msgstr "Create a professional Profile and find 3D Design jobs."
+
+msgid "Sign Up Employer Account"
+msgstr "Sign Up User Account"
+
+msgid "Sign Up Freelancer Account"
+msgstr "Sign Up Designer Account"
+
+msgid "Do you want to choose this freelancer for your project? Only one freelancer can be chosen."
+msgstr "Do you want to choose this Designer for your project? Only one Designer can be chosen."
+
+msgid "Invite <span><strong>%s</strong></span> to join your project (choose one or more projects below):"
+msgstr "Invite <span><strong>%s</strong></span> to join your Project (choose one or more projects below):"
+
+msgid "There are currently no projects available to invite this user."
+msgstr "There are currently no Projects available to invite this user."
+
+msgid "I agree with the <a href=\"%s\" target=\"_Blank\" rel=\"noopener noreferrer\" >Term of Use and Privacy policy</a>"
+msgstr "I agree with the <a href=\"%s\" target=\"_Blank\" rel=\"noopener noreferrer\" >Terms & Conditions, Terms of Website Use and the Privacy Policy</a>"
+
+msgid "You are going to finish this project. Now it’s time for you to review and rate for freelancer."
+msgstr "You are going to finish this Project. Now it’s time for you to review and rate for Designer."
+
+msgid "The freelancer will get reputattion if you give him rating & review."
+msgstr "The Designer will get a reputation if you give him a rating & review."
+
+msgid "Congragulation on completing the project. Employer has been finished the project. Also, please check your personal account to make sure the money is successfully transferred."
+msgstr "Congragulation on completing the Project. The User has finished the Project. Please check your personal account to make sure the money is successfully transferred."
+
+msgid "You can also give rating & review for the employer."
+msgstr "You can also give a rating & review for the User."
+
+msgid "Transfer Money To Freelancer"
+msgstr "Transfer Money To Designer"
+
+msgid "This project is pending"
+msgstr "This Project is pending"
+
+msgid "This project has been archived"
+msgstr "This Project has been archived"
+
+msgid "This project has been rejected"
+msgstr "This Project has been rejected"
+
+msgid "Search freelancers by keyword"
+msgstr "Search Designers by keyword"
+
+msgid "Select projects worked"
+msgstr "Select Projects worked"
+
+msgid "Search projects by keyword"
+msgstr "Search Projects by keyword"
+
+msgid "FREELANCER BIDDING (%s)"
+msgstr "DESIGNER BIDDING (%s)"
+
+msgid "ABOUT EMPLOYER"
+msgstr "ABOUT USER"
+
+msgid "Freelancer %s"
+msgstr "Designers %s"
+
+msgid "Employer %s"
+msgstr "User %s"
+
+msgid "In case you need some proofs from workspace, please click on the link below."
+msgstr "In case you need some proofs from WorkSpace, please click on the link below."
+
+msgid "Open workspace >"
+msgstr "Open WorkSpace >"
+
+msgid "Back to project detail"
+msgstr "Back to Project detail"
+
+msgid "I agree with the <a href=\"%s\" rel=\"noopener noreferrer\"  target=\"_Blank\">Term of Use and Privacy policy</a>"
+msgstr "I agree with the <a href=\"%s\" rel=\"noopener noreferrer\" target=\"_Blank\">Terms & Conditions, Terms of Website Use and Privacy Policy</a>"
+
+msgid "Enter your project details"
+msgstr "Enter your Project details"
+
+msgid "Enter a short title for your project"
+msgstr "Enter a short title for your Project"
+
+msgid "Describe your project in a few paragraphs"
+msgstr "Describe your Project in a few paragraphs"
+
+msgid "Posted projects (%d)"
+msgstr "Posted Projects (%d)"
+
+msgid "View projects being bidden"
+msgstr "View Projects being bidden"
+
+msgid "View all projects"
+msgstr "View all Projects"
+
+msgid "<p>You have not created any projects yet.</p><p>It is time to start creating ones.</p>"
+msgstr "<p>You have not created any Projects yet.</p><p>It is time to start creating ones.</p>"
+
+msgid "Post a project"
+msgstr "Create a new Project"
+
+msgid "New private message on project %s "
+msgstr "New private message on Project %s"
+
+msgid "Bridging the gap between Employers and Freelancers"
+msgstr "Bridging the gap between Users and Designers"
+
+msgid "What categories do your project work in?"
+msgstr "Pick the categories that best describe your Project"
+
+msgid "All project posted"
+msgstr "All Projects"
+
+msgid "Post a Project"
+msgstr "Create a new Project"
+
+msgid "Post a project now"
+msgstr "Create a Project now"
